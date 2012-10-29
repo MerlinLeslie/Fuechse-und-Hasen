@@ -14,7 +14,7 @@ public class FuecheUndHasen {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Simulator sim = new Simulator(200, 200);
+        Simulator sim = new Simulator(100, 120);
         sim.starteLangeSimulation();
     }
 }
